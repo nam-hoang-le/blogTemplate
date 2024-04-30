@@ -53,4 +53,3 @@ If you have any questions, please contact me at lenam1072004@gmail.com.
 
 
 
-D:\2024\newGithub\pythonWeb\PythonWeb
